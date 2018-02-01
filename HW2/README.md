@@ -32,4 +32,4 @@ git status
 
 ```
 
-![Image of my editor](Screenshot-(1).jpg)
+![Image of my editor](Screenshot-(1))
