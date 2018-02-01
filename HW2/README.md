@@ -1,8 +1,8 @@
 Brian Weinmeister
 
-#Homework Assignment two
+# Homework Assignment two
 
-##This is for Creative Coding
+## This is for Creative Coding
 
 1. Summarize the work you did this homework cycle. Paying particular attention to the individual choices you made.
 What steps did you take to complete the assignment?
@@ -13,7 +13,7 @@ What steps did you take to complete the assignment?
 3. Is there anything in particular you learned that you would like to discuss further?
 4. What issues did you help your fellow classmates out with this past homework cycle?
 
-##Answers to the weekly questions
+## Answers to the weekly questions
 
 1. In this homework cycle we took a look at creating repositories and downloading tools for text editors. To tackle this assignment I went step by step paying close attention to the details and making sure I was absorbing all of the content
 2. I did not have any problems other than getting initially oriented.
@@ -32,4 +32,4 @@ git status
 
 ```
 
-![Image of my editor](Screenshot-(1))
+![Image of my editor](Screenshot-(1).png)
