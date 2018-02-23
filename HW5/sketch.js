@@ -18,7 +18,7 @@ function draw() {
 
   pop();
 
-// Starting the static animation of the ellipse streaking across the canvas
+// Starting the static animation of the ellipse racing across the canvas
   push();
 
    fill('rgb(65,105,255)');
