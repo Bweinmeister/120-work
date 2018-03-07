@@ -1,29 +1,30 @@
-let circle1 = {};
-circle1.pos1x = 100;
-circle1.pos1y = 100;
-circle1.pos2x = 200;
-circle1.pos2y = 200;
-circle1.pos3x = 0;
-circle1.pos3y = 0;
+var line1start = 255;
+var line2start = 130;
+
+
+
 function setup() {
     createCanvas( 720, 400 );
     background( 'rgb(50, 0, 110)' );
 
-    circle1.pos1x = random(width);
-    circle1.pos1y = random(height);
-    circle1.pos2x = circle1.pos1x + 1;
-    circle1.pos2y = circle1.pos1y - 1;
 }
 
 
 function draw(){
-  centerX = width * 0.5;
-  centerY = height * 0.5;
+  push();
+  fill("red");
+  noStroke();
+  ellipse(mouseX,mouseY,10,50);
+  rotate(random(90))
+  pop();
 
 
-}
+  push();
+  stroke('yellow');
+  strokeWeight(11);
+  stroke
+  line(random(line1start),random(line2start),50+10,10*5);
 
-function mousePressed(){
-  clear();
-  background( 'rgb(50, 0, 110)' );
+  pop();
+
 }
