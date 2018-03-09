@@ -22,7 +22,6 @@ function draw(){
   push();
   stroke('yellow');
   strokeWeight(11);
-  stroke
   line(random(line1start),random(line2start),50+10,10*5);
 
   pop();
